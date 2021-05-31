@@ -1,4 +1,10 @@
 aiueo
 かきくけこ
 さしすせそ
+<<<<<<< HEAD
 たちつてと
+=======
+tachitsuteto
+naninuneno
+>>>>>>> アルファベット
+はひふへほ
